@@ -1,0 +1,121 @@
+    1  VirtualBox --startvm XP
+    2  user -r
+    3  whoami
+    4  user@sc - r
+    5  uname -r
+    6  uname -vlads
+    7  uname -v
+    8  whoami
+    9  uname -r
+   10  whoami
+   11  firefox
+   12  firefox &
+   13  echo &-
+   14  echo &0
+   15  user -r
+   16  whoami
+   17  cd
+   18  mkdir
+   19  lsb_release
+   20  cat/etc/*-release
+   21  cat/etc/*-release]
+   22  cs
+   23  cd
+   24  echo &0
+   25  echo $0
+   26  lsb_release
+   27  cd Documents
+   28  pwd
+   29  man
+   30  cd
+   31  pwd
+   32  rmdir
+   33  cd
+   34  cd Documents
+   35  nano
+   36  main cd
+   37  manual cd
+   38  cd
+   39  pwd
+   40  cd Documents
+   41  pwd
+   42* cd D
+   43  pwd
+   44  cd Documents/
+   45  cd Documents/users
+   46  cd Documents/system
+   47  cd Documents/ downloads
+   48  cd Documents/Downloads
+   49  cd Documents/downloads
+   50  cd Documents/ core
+   51  cd Documents/ ..
+   52  .
+   53  ..
+   54* 
+   55  manual
+   56  cd
+   57  manual Documents/
+   58  manual 
+   59  man
+   60  Documents
+   61  pwd
+   62  cd Documents/]
+   63  cd Documents
+   64  cd ..
+   65  pwd
+   66  whoami
+   67  who
+   68  pwd
+   69  ls
+   70  ls -l
+   71  ls -la
+   72  ls -l
+   73  cd Documents/
+   74  ls -l
+   75  ls -la
+   76  pwd
+   77  cd .
+   78  pwd
+   79  cd ..
+   80  pwd
+   81  ls -la
+   82  cd ..
+   83  pwd
+   84  ls -la
+   85  cd ..
+   86  ls -la
+   87  pwd
+   88  cd ..
+   89  ls -la
+   90  cd home
+   91  cd ..
+   92  pwd
+   93  cd ~
+   94  pwd
+   95  cd ..
+   96  pwd
+   97  cd ~
+   98  cd /
+   99  pwd
+  100  cd ~
+  101  [wd
+  102  pwd
+  103  cd /home
+  104  cd/home/ user
+  105  cd/home/user
+  106  cd user
+  107  cd /
+  108  pwd
+  109  cd
+  110  pwd
+  111  cd
+  112  pwd
+  113  ls
+  114  mkdir darbi
+  115  ls
+  116  ls -l
+  117  cd darbi/
+  118  pwd
+  119  ls -la
+  120  history
+  121  history > history.txt
