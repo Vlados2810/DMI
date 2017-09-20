@@ -1,0 +1,6 @@
+gut-upload
+#!/bin/bash
+git add .
+git commit -m "20170920_11_40"
+git push origin master
+
