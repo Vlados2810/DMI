@@ -1,0 +1,66 @@
+    1  VirtualBox --startvm XP
+    2  firefox &
+    3  whoami
+    4  pwd
+    5  NAME="rtu_etf"
+    6  nano
+    7  mainiigais=10
+    8  echo $mainiigais
+    9  mainiigais______=20
+   10  1mainiigais=20
+   11  mainiigais1=20
+   12  pwd
+   13  nano shell_programming.sh
+   14  cat /etc/shells
+   15  ls -l
+   16  chmod 744 shell_programming.sh
+   17  chmod 744 Shell_programming.sh
+   18  shell_programming.sh
+   19  pwd
+   20  ./shell_programming.sh
+   21  nano shell_programming.sh
+   22  ./shell_programming.sh
+   23  nano
+   24  nano shell_programming.sh
+   25  ./shell_programming.sh
+   26  nano shell_programming.sh
+   27  ./shell_programming.sh
+   28  nano shell_programming.sh
+   29  ./shell_programming.sh
+   30  pwd
+   31  ls - la
+   32  ls -la
+   33  nano git-upload
+   34  git init
+   35  git add .
+   36  git config --globa;.uiser.email v.abarovics@gmail.com
+   37  git add .git config --gloabl.user.email v.abarovics@gmail.com
+   38  git config --global user.email v.abarovics@gmail.com
+   39  git remote add origin https://github.com/Vlados2810/DMI
+   40  git push origin master
+   41  history
+   42  ls -la
+   43  ls -lat
+   44  mkdir DMI
+   45  mv git-upload DMI/
+   46  mv shell_programming.sh DMI/
+   47  ls -lat
+   48  rm -rf .git
+   49  ls -la
+   50  cd DMI
+   51  history
+   52  git init
+   53  git add .
+   54  git config --global user.email v.abarovics@gmail.com
+   55  git remote add origin https://github.com/Vlados2810/DMI.git
+   56  git commit -m "20170927_10_05"
+   57  ls -la
+   58  history > history_20170927.txt
+   59  ls -la
+   60  chmod 744 git-upload 
+   61  history > history_20170927.txt
+   62  PATH=$PATH:~/DMI
+   63  echo $PATH
+   64  pwd
+   65  ls -la
+   66  history > history_20170927.txt

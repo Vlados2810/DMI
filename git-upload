@@ -1,6 +1,6 @@
-gut-upload
 #!/bin/bash
+git config --global user.email v.abarovics@gmail.com
 git add .
-git commit -m "20170920_11_40"
+git commit -m "20170927_10_35"
 git push origin master
 
