@@ -48,6 +48,10 @@ END
 
 #4. piemērs
 #: <<'END'
+if [ $# == 2 ]
+#ja (if) skriptam nodoto argumentu skaits ($#) ir vienāds  (==) ar  2
+then 
+# tad (then) izpildām sekojošās darbības līdz ...
 a=$1
 b=$2
 val31=`expr $a + $b`
@@ -60,4 +64,6 @@ val34=`expr $a / $b`
 echo "$a / $b = "$val34
 val35=`expr $a % $b`
 echo "$a % $b = "$val35
+# ... šai vietai
+fi
 #END
