@@ -1,0 +1,46 @@
+    1  VirtualBox --startvm XP
+    2  firefox &
+    3  git clone https://github.com/Vlados2810/DMI
+    4  cd DMI
+    5  ls -l
+    6  cat shell_programming.sh 
+    7  nano
+    8  cat shell_operators.sh
+    9  ls -l
+   10  cat shell-operators.sh 
+   11  nano
+   12  nano shell-operators.sh
+   13  ls -l
+   14  nano shell_operators.sh
+   15  shell_operators.sh
+   16  ./
+   17  ./shell_operators.sh
+   18  chmod 744 shell_operators.sh
+   19  ./shell_operators.sh
+   20  nano shell_operators.sh
+   21  echo "a + b : $val"
+   22  nano shell_operators.sh
+   23* ./shel
+   24  ./shell_operators.sh
+   25  nano shell_operators.sh
+   26  ./shell_operators.sh
+   27  nano shell_operators.sh
+   28  ./shell_operators.sh
+   29  nano shell_operators.sh
+   30  ./shell_operators.sh
+   31  nano shell_operators.sh
+   32  ./shell_operators.sh
+   33  nano shell_operators.sh
+   34  ls -l
+   35  rmdir shell-operators.sh
+   36  rm shell-operators.sh
+   37  ls -l
+   38  nano shell_operators.sh
+   39  ./shell_operators.sh
+   40  nano shell_operators.sh
+   41  pwd
+   42  history
+   43  nano git_upload
+   44  ls -l
+   45  nano git-upload
+   46  history > history_20171011.txt
