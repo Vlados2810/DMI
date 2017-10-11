@@ -1,0 +1,90 @@
+    1  VirtualBox --startvm XP
+    2  firefox &
+    3  git clone https://github.com/Vlados2810/DMI
+    4  cd DMI
+    5  ls -l
+    6  cat shell_programming.sh 
+    7  nano
+    8  cat shell_operators.sh
+    9  ls -l
+   10  cat shell-operators.sh 
+   11  nano
+   12  nano shell-operators.sh
+   13  ls -l
+   14  nano shell_operators.sh
+   15  shell_operators.sh
+   16  ./
+   17  ./shell_operators.sh
+   18  chmod 744 shell_operators.sh
+   19  ./shell_operators.sh
+   20  nano shell_operators.sh
+   21  echo "a + b : $val"
+   22  nano shell_operators.sh
+   23* ./shel
+   24  ./shell_operators.sh
+   25  nano shell_operators.sh
+   26  ./shell_operators.sh
+   27  nano shell_operators.sh
+   28  ./shell_operators.sh
+   29  nano shell_operators.sh
+   30  ./shell_operators.sh
+   31  nano shell_operators.sh
+   32  ./shell_operators.sh
+   33  nano shell_operators.sh
+   34  ls -l
+   35  rmdir shell-operators.sh
+   36  rm shell-operators.sh
+   37  ls -l
+   38  nano shell_operators.sh
+   39  ./shell_operators.sh
+   40  nano shell_operators.sh
+   41  pwd
+   42  history
+   43* 
+   44  ls -l
+   45  nano git-upload
+   46  history > history_20171011.txt
+   47  ls -l
+   48  ./git-upload
+   49  nano shell_programming.sh
+   50  ./shell_operators.sh
+   51  nano shell_operators.sh
+   52  ./shell_operators.sh
+   53  nano shell_operators.sh
+   54  ./shell_operators.sh
+   55  nano shell_operators.sh
+   56  ./shell_operators.sh
+   57  nano shell_operators.sh
+   58  ./shell_operators.sh
+   59  nano shell_operators.sh
+   60  nano shell_operators.sh 1 2
+   61  ./shell_operators.sh 1 2
+   62  nano shell_operators.sh 
+   63  ./shell_operators.sh 13 89
+   64  nano shell_operators.sh 
+   65  cp shell_operators.sh shell_operators_treninsh_no_tutorials.sh 
+   66  ls -la
+   67  ls -lat
+   68  nano shell_operators.sh 
+   69  ./shell_operators.sh 
+   70  nano shell_operators.sh 
+   71  ./shell_operators.sh 
+   72  nano shell_operators.sh 
+   73  ./shell_operators.sh 
+   74  nano shell_operators.sh 
+   75  ./shell_operators.sh 
+   76  nano shell_operators.sh 
+   77  ./shell_operators.sh 
+   78  nano shell_operators.sh 
+   79  ./shell_operators.sh 
+   80  ./shell_operators.sh 5 9
+   81  ./shell_operators.sh 5 89564\
+   82  ./shell_operators.sh 5 89564
+   83  nano shell_operators.sh 
+   84  ./shell_operators.sh 5 89564
+   85  ./shell_operators.sh 5 6
+   86  nano shell_operators.sh 
+   87* ./git-upload 
+   88  history
+   89  history > history_20171011(1).txt
+   90  history > history_20171011_treninja_skripts.txt
