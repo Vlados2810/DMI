@@ -66,3 +66,5 @@
    66  nano array.sh
    67  history
    68  history > history.txt
+   69  nano git-upload 
+   70  history > history_20171025.txt

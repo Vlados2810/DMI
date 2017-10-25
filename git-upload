@@ -4,6 +4,7 @@ then
 git config --global user.email v.abarovics@gmail.com
 git add .
 git commit -m $1
-#git commit -m "20171023_9_25"
+#git commit -m "20171025_10_55"
 git push origin master
 fi
+
