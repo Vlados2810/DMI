@@ -1,0 +1,66 @@
+    1  VirtualBox --startvm XP
+    2  firefox &
+    3  git clone https://github.com/Vlados2810/DMI
+    4  cd DMI
+    5  pwd
+    6  mkdir PYTHON
+    7  cd PYTHON
+    8  whereis PYTHON
+    9  whereis python
+   10  nano Hello.py
+   11  ls -l
+   12  chmod 774 Hello.py
+   13  chmod 744 Hello.py
+   14  ./Hello.py 
+   15  nano Hello.py
+   16  ./Hello.py 
+   17  nano Hello.py
+   18  ./Hello.py 
+   19  nano Hello.py
+   20  ./Hello.py 
+   21  nano Hello.py
+   22  nano Hello.py
+   23  ./Hello.py 
+   24  nano Hello.py
+   25  ./Hello.py 
+   26  nano Hello.py
+   27  ./Hello.py 
+   28  nano Hello.py
+   29  ./Hello.py 
+   30  nano Hello.py
+   31  ./Hello.py 
+   32  nano Hello.py
+   33  ./Hello.py 
+   34  nano Hello.py
+   35  ./Hello.py 
+   36  nano Hello.py
+   37  ./Hello.py 
+   38  nano Hello.py
+   39  ./Hello.py 
+   40  nano vairables.py
+   41  chmod 744 variables.py
+   42  chmod 744 vairables.py
+   43  ./ vairables.py
+   44  ./vairables.py
+   45  nano vairables.py 
+   46  nano variables.py 
+   47  ./variables.py 
+   48  chmod 7744 variables.py 
+   49  ./variables.py 
+   50  nano variables.py 
+   51  ./variables.py 
+   52  nano variables.py 
+   53  ./variables.py 
+   54  nano variables.py 
+   55  ./variables.py 
+   56  nano variables.py 
+   57  ./variables.py 
+   58  nano variables.py 
+   59  ./variables.py 
+   60  nano dialogs.py
+   61  ./dialogs.py
+   62  chmod 744 dialogs.py 
+   63  ./dialogs.py
+   64  nano dialogs.py
+   65  nano if.py
+   66  history > history20170811.txt
