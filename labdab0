@@ -126,7 +126,7 @@ if  (( $c > $a )) && (( $c > $b )) && (( $b > $a )); then
    echo " Augošā secībā $a $b $c   Dilstošā secībā $c $b $a "
 else
    echo " Skaitļi ir vienādi, tāpēc nevar sakārtot augošā vai dilstošā secībā! "
-fi
+
 echo
 #MEDIANA
 if  (( $a > $b )) && (( $a > $c )) && (( $b > $c )); then
