@@ -54,4 +54,3 @@ semilogx(dt,xvid3am,'-o',dt,dt*0+ista_vv)
 %
 %% Piezīme
 % lai simulink palaist, vajadzētu definēt dt = 0.01
-%% Secinājumi
